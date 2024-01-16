@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wz_ass_02", "wz_ass_02.csproj", "{6BF72C47-B55B-4109-96E4-DADA9EDD8E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wz_ass02_api", "..\wz_ass02_api\wz_ass02_api.csproj", "{61D20CA2-2F41-4D02-AF4D-EBD54A27DA4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF72C47-B55B-4109-96E4-DADA9EDD8E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF72C47-B55B-4109-96E4-DADA9EDD8E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF72C47-B55B-4109-96E4-DADA9EDD8E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF72C47-B55B-4109-96E4-DADA9EDD8E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D20CA2-2F41-4D02-AF4D-EBD54A27DA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D20CA2-2F41-4D02-AF4D-EBD54A27DA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D20CA2-2F41-4D02-AF4D-EBD54A27DA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D20CA2-2F41-4D02-AF4D-EBD54A27DA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD532C3A-7DD1-4791-BBD7-E31DF6A88FC1}
+	EndGlobalSection
+EndGlobal
